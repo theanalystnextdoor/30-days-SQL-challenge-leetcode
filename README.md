@@ -19,6 +19,7 @@ Each day's folder will contain:
 | 5   |[Click Here](https://github.com/theanalystnextdoor/30-days-SQL-challenge-leetcode/commit/7ae9bac7c3f7ad3c299eb2954cfe724046ede077)|
 | 6   |[Click Here](https://github.com/theanalystnextdoor/30-days-SQL-challenge-leetcode/commit/9693230194eec6e109cd761dffe25161db2839c3)|
 | 7   |[Click Here](https://github.com/theanalystnextdoor/30-days-SQL-challenge-leetcode/commit/a56487d79830d649ade52cea7ed96f947850eb95)|
+| 8   |[Click Here](https://github.com/theanalystnextdoor/30-days-SQL-challenge-leetcode/commit/84453db8938d43f3e741a854a785f4c0e6078db9)|
 
 > **How this works:**  
 > Each day, I will add a new folder (`day_XX`) and update this table with a link to that folder.  
