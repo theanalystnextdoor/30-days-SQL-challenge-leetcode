@@ -34,6 +34,7 @@ Each day's folder will contain:
 | 20  |[Click Here](https://github.com/theanalystnextdoor/30-days-SQL-challenge-leetcode/commit/be2a280b062455ca438f68dfea2ae50ea248385a)|
 | 21  |[Click Here](https://github.com/theanalystnextdoor/30-days-SQL-challenge-leetcode/commit/b475da3e011bb67b313613dcda9af8f44af039ca)|
 | 22  |[Click Here](https://github.com/theanalystnextdoor/30-days-SQL-challenge-leetcode/commit/4ffeec4ff4a8393326ab3ab94026be28f008d52c)|
+| 23  |[Click Here](https://github.com/theanalystnextdoor/30-days-SQL-challenge-leetcode/commit/f77741616370659667e57de7978ac89b5c67cae6)|
 
 
 
