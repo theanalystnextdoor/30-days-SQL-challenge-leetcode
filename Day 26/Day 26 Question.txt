@@ -1,0 +1,37 @@
+Table: Orders
+
++---------------+---------+
+| Column Name   | Type    |
++---------------+---------+
+| order_id      | int     |
+| customer_id   | int     |
+| order_date    | date    | 
+| item_id       | varchar |
+| quantity      | int     |
++---------------+---------+
+(ordered_id, item_id) is the primary key (combination of columns with unique values) for this table.
+This table contains information on the orders placed.
+order_date is the date item_id was ordered by the customer with id customer_id.
+ 
+
+Table: Items
+
++---------------------+---------+
+| Column Name         | Type    |
++---------------------+---------+
+| item_id             | varchar |
+| item_name           | varchar |
+| item_category       | varchar |
++---------------------+---------+
+item_id is the primary key (column with unique values) for this table.
+item_name is the name of the item.
+item_category is the category of the item.
+ 
+
+You are the business owner and would like to obtain a sales report for category items and the day of the week.
+
+Write a solution to report how many units in each category have been ordered on each day of the week.
+
+Return the result table ordered by category.
+
+The result format is in the following example.
